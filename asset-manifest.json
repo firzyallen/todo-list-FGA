@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-list-FGA/static/css/main.9da3593a.css",
+    "main.js": "/todo-list-FGA/static/js/main.f6b81d34.js",
+    "index.html": "/todo-list-FGA/index.html",
+    "main.9da3593a.css.map": "/todo-list-FGA/static/css/main.9da3593a.css.map",
+    "main.f6b81d34.js.map": "/todo-list-FGA/static/js/main.f6b81d34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9da3593a.css",
+    "static/js/main.f6b81d34.js"
+  ]
+}
